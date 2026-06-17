@@ -16,13 +16,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/vipul-patil-a71780397" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://yourportfolio.com" target="blank">
+  &nbsp;&nbsp;&nbsp;
+<a href="https://vipul07bit.github.io/Portfolio/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=vercel" height="40" />
 </a>
-<a href="mailto:yourmail@example.com">
+  &nbsp;&nbsp;&nbsp;
+<a href="mailto:officialvipul0622.yt@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
@@ -52,7 +54,7 @@
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools & Platforms
@@ -67,7 +69,8 @@
 
 * 🖥️ PyQt
 * 🤖 Prompt Engineering
-* 🔗 REST APIs
+* 🔗 APIs
+* 📒 Google Colab
 
 </p>
 
@@ -85,37 +88,6 @@ Building a React-based movie discovery platform using external APIs with ratings
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
 
 ## 💭 Developer Mindset
 
