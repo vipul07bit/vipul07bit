@@ -48,7 +48,7 @@
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
 ### Database
